@@ -10,7 +10,7 @@ The custom properties plugin fetches different information and adds to the prope
   <plugins>
     <plugin>
         <groupId>com.github.Janendra</groupId>
-        <artifactId>custom-properties-maven-plugin</artifactId>
+        <artifactId>custom-properties</artifactId>
         <version>1.0</version>
         <executions>
             <execution>
