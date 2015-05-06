@@ -1,0 +1,10 @@
+target/
+
+# Idea File        #
+####################
+.idea/
+*.iml
+*.ipr
+*.iws
+*.ids
+
