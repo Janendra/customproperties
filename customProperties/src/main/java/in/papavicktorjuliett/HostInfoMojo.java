@@ -22,8 +22,8 @@ public class HostInfoMojo extends AbstractMojo {
             this.project.getProperties().setProperty("hostName", InetAddress.getLocalHost().getHostName());
         } catch (UnknownHostException e) {
             getLog().error("Error in fetching host IP.");
-        }catch ( Exception e){
-            getLog().error("Error: ",e);
+        } catch (Exception e) {
+            getLog().error("Error: ", e);
         }
     }
 

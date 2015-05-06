@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>in.papavicktorjuliett</groupId>
-    <artifactId>customProperty-maven-plugin</artifactId>
+    <groupId>com.github.Janendra</groupId>
+    <artifactId>custom-properties-maven-plugin</artifactId>
     <version>1.0</version>
     <packaging>maven-plugin</packaging>
 
-    <name>Custom property Maven Plugin</name>
+    <name>Custom properties Maven Plugin</name>
 
     <description>Simple maven plugin to custom properties to the list like git information and host info</description>
 
