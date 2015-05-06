@@ -9,7 +9,7 @@ The custom properties plugin fetches different information and adds to the prope
 <build>
   <plugins>
     <plugin>
-        <groupId>in.papavicktorjuliett</groupId>
+        <groupId>com.github.Janendra</groupId>
         <artifactId>customProperty-maven-plugin</artifactId>
         <version>1.0</version>
         <executions>
