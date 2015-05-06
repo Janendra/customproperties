@@ -8,8 +8,22 @@
     <packaging>maven-plugin</packaging>
 
     <name>Custom properties Maven Plugin</name>
-
     <description>Simple maven plugin to custom properties to the list like git information and host info</description>
+    <url>https://github.com/Janendra/customProperties</url>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/Janendra/customproperties.git</url>
+        <connection>scm:git:git@github.com:Janendra/customproperties.git</connection>
+        <developerConnection>scm:git:git@github.com:Janendra/customproperties.git</developerConnection>
+    </scm>
 
     <properties>
         <maven.scm.version>1.9.4</maven.scm.version>

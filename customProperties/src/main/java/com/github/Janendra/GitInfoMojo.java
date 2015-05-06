@@ -1,4 +1,4 @@
-package in.papavicktorjuliett;
+package com.github.Janendra;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;

@@ -1,4 +1,4 @@
-package in.papavicktorjuliett.utils;
+package com.github.Janendra.utils;
 
 import java.net.Inet6Address;
 import java.net.InetAddress;

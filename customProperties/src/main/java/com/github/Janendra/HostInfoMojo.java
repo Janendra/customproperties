@@ -1,6 +1,6 @@
-package in.papavicktorjuliett;
+package com.github.Janendra;
 
-import in.papavicktorjuliett.utils.ApplicationPropertyUtils;
+import com.github.Janendra.utils.ApplicationPropertyUtils;
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugins.annotations.Mojo;
