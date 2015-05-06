@@ -12,8 +12,8 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>in.papavicktorjuliett</groupId>
-                <artifactId>customProperty-maven-plugin</artifactId>
+                <groupId>com.github.Janendra</groupId>
+                <artifactId>custom-properties</artifactId>
                 <version>1.0</version>
                 <executions>
                     <execution>
